@@ -1,0 +1,12 @@
+{
+  "name": "ebenezer-dream-studio",
+  "version": "1.0.0",
+  "description": "Ebenezer Dream Studio — App Developer Portfolio",
+  "private": true,
+  "scripts": {
+    "dev": "npx -y live-server --port=3000 --open=index.html",
+    "serve": "npx -y http-server -p 3000 -o"
+  },
+  "author": "Ebenezer Dream Studio",
+  "license": "MIT"
+}
